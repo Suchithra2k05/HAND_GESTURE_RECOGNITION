@@ -58,7 +58,7 @@ Hand_Gesture_project/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/Likhitha216/Hand_Gesture_project.git
+git clone https://github.com/Suchithra2k05/Hand_Gesture_project.git
 cd Hand_Gesture_project
 pip install opencv-python numpy tensorflow
 ```
@@ -125,8 +125,8 @@ This project is open-source and free to use.
 
 ## 👤 Author
 
-**Likhitha**
-🔗 GitHub: https://github.com/Likhitha216
+**Suchithra**
+🔗 GitHub: https://github.com/Suchithra2k05
 
 ## 📂 Dataset
 
